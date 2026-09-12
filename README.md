@@ -6,7 +6,7 @@ EduBoard PRO is a responsive educational productivity platform built as a fronte
 
 ## Live Demo
 
-**Demo:** ``
+**Demo:** `https://faizan-khan144.github.io/eduboard-pro/`
 
 **GitHub:** `https://github.com/Faizan-khan144/eduboard-pro/`
 
